@@ -3,7 +3,7 @@ unit 3 exercises for 3.5 thru 3.8, one folder per section
 
 ## apcs-java-3.5
 * 3.5.6 [RollerCoaster](apcs-java-3.5/RollerCoaster.java)
-* 3.5.7 [CompoundRollerCoaster](apcs-java-3.5/RCompoundCoaster.java)
+* 3.5.7 [CompoundRollerCoaster](apcs-java-3.5/CompoundCoaster.java)
 * 3.5.8 [Divisibility](apcs-java-3.5/Divisibility.java)
 * 3.5.9 [FindTheMedian](apcs-java-3.5/FindMedian.java)
 
