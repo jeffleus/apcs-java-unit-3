@@ -1,3 +1,5 @@
+package apcsjava36;
+
 public class OddEven
 {
     // Determines if num1 and num2 are both ODD
